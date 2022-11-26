@@ -1,0 +1,508 @@
+[
+  {
+    "id": 1,
+    "bankCode": "0001",
+    "bankName": "T.C Merkez Bankası"
+  },
+  { "id": 2, "bankCode": "0004", "bankName": "İller Bankası A.Ş." },
+  { "id": 3, "bankCode": "0010", "bankName": "Ziraat Bankası A.Ş." },
+  { "id": 4, "bankCode": "0012", "bankName": "Halk Bankası A.Ş." },
+  { "id": 5, "bankCode": "0014", "bankName": "Sınai Kalkınma Bankası A.Ş." },
+  { "id": 6, "bankCode": "0015", "bankName": "Vakıflar Bankası T.A.O." },
+  {
+    "id": 7,
+    "bankCode": "0016",
+    "bankName": "Exim Bank"
+  },
+  {
+    "id": 8,
+    "bankCode": "0017",
+    "bankName": "Kalkınma Bankası A.Ş."
+  },
+  {
+    "id": 9,
+    "bankCode": "0029",
+    "bankName": "Birleşik Fon Bankası A.Ş."
+  },
+  {
+    "id": 10,
+    "bankCode": "0032",
+    "bankName": "Türkiye Ekonomi Bankası A.Ş."
+  },
+  {
+    "id": 11,
+    "bankCode": "0046",
+    "bankName": "Şekerbank T.A.Ş."
+  },
+  {
+    "id": 12,
+
+    "bankCode": "0062",
+    "bankName": "Garanti Bankası A.Ş."
+  },
+  {
+    "id": 13,
+    "bankCode": "0064",
+    "bankName": "İş Bankası A.Ş:"
+  },
+  {
+    "id": 14,
+    "bankCode": "0067",
+    "bankName": "Yapı Ve Kredi Bankası A.Ş."
+  },
+  {
+    "id": 15,
+    "bankCode": "0091",
+    "bankName": "Arap Türk Bankası"
+  },
+  {
+    "id": 16,
+    "bankCode": "0092",
+    "bankName": "CitiBank A.Ş."
+  },
+  {
+    "id": 17,
+    "bankCode": "0096",
+    "bankName": "Turkis Bank A.Ş."
+  },
+  {
+    "id": 18,
+    "bankCode": "0098",
+    "bankName": "Jpmorgan Chase Bank N.A."
+  },
+  {
+    "id": 19,
+    "bankCode": "0099",
+    "bankName": "İng Bank A.Ş."
+  },
+  {
+    "id": 20,
+    "bankCode": "0100",
+    "bankName": "Ada Bank A.Ş."
+  },
+  {
+    "id": 21,
+    "bankCode": "0103",
+    "bankName": "Fibabanka A.Ş."
+  },
+  {
+    "id": 22,
+    "bankCode": "0108",
+    "bankName": "Turkland Bank A.Ş."
+  },
+  {
+    "id": 23,
+    "bankCode": "0109",
+    "bankName": "ICBC Turkey Bank A.Ş."
+  },
+  {
+    "id": 24,
+    "bankCode": "0111",
+    "bankName": "QNB Finansbank A.Ş."
+  },
+  {
+    "id": 25,
+    "bankCode": "0115",
+    "bankName": "Deutsche Bank A.Ş."
+  },
+  {
+    "id": 26,
+    "bankCode": "0116",
+    "bankName": "Pasha Yatırım Bank A.Ş."
+  },
+  {
+    "id": 27,
+    "bankCode": "0121",
+    "bankName": "Standard Chartered Yatırım Bankası Türk A.Ş."
+  },
+  {
+    "id": 28,
+    "bankCode": "0122",
+    "bankName": "Societe Generale (SA)"
+  },
+  {
+    "id": 29,
+    "bankCode": "0123",
+    "bankName": "HSBC Bank A.Ş."
+  },
+  {
+    "id": 30,
+    "bankCode": "0124",
+    "bankName": "Alternatifbank A.Ş."
+  },
+  {
+    "id": 31,
+    "bankCode": "0125",
+    "bankName": "Burgan Bank A.Ş."
+  },
+  {
+    "id": 32,
+    "bankCode": "0129",
+    "bankName": "Merrill Lynch Yatırım Bank A.Ş."
+  },
+  {
+    "id": 33,
+    "bankCode": "0132",
+    "bankName": "İstanbul Takas ve Saklama Bank A.Ş."
+  },
+  {
+    "id": 34,
+    "bankCode": "0134",
+    "bankName": "Denizbank A.Ş."
+  },
+  {
+    "id": 35,
+    "bankCode": "0135",
+    "bankName": "Anadolubank A.Ş."
+  },
+  {
+    "id": 36,
+    "bankCode": "0137",
+    "bankName": "Rabobank A.Ş."
+  },
+  {
+    "id": 37,
+    "bankCode": "0138",
+    "bankName": "Diler Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 38,
+    "bankCode": "0139",
+    "bankName": "GSD Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 39,
+    "bankCode": "0141",
+    "bankName": "Nurol Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 40,
+    "bankCode": "0142",
+    "bankName": "Bankpozitif Kredi ve Kalkınma Bankası A.Ş."
+  },
+  {
+    "id": 41,
+    "bankCode": "0143",
+    "bankName": "Aktif Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 42,
+    "bankCode": "0146",
+    "bankName": "Odea Bank A.Ş."
+  },
+  {
+    "id": 43,
+    "bankCode": "0147",
+    "bankName": "Mufg Bank Turkey A.Ş."
+  },
+  {
+    "id": 44,
+    "bankCode": "0148",
+    "bankName": "INTESA SANPAOLO S.P.A."
+  },
+  {
+    "id": 45,
+    "bankCode": "0149",
+    "bankName": "BANK OF CHINA TURKEY A.Ş"
+  },
+  {
+    "id": 46,
+    "bankCode": "0150",
+    "bankName": "GOLDEN GLOBAL YATIRIM BANKASI A.Ş."
+  },
+  {
+    "id": 47,
+    "bankCode": "0203",
+    "bankName": "Albaraka Türk Katılım Bankası A.Ş."
+  },
+  {
+    "id": 48,
+    "bankCode": "0205",
+    "bankName": "Kuveyt Türk Katılım Bankası A.Ş."
+  },
+  {
+    "id": 49,
+    "bankCode": "0206",
+    "bankName": "Türkiye Finans Katılım Bankası A.Ş."
+  },
+  {
+    "id": 50,
+    "bankCode": "0209",
+    "bankName": "Ziraat Katılım Bankası A.Ş."
+  },
+  {
+    "id": 51,
+    "bankCode": "0210",
+    "bankName": "Vakıf Katılım Bankası A.Ş."
+  },
+  {
+    "id": 52,
+    "bankCode": "0211",
+    "bankName": "Türkiye Emlak Katılım Bankası A.Ş."
+  },
+  {
+    "id": 53,
+    "bankCode": "0806",
+    "bankName": "Merkezi Kayıt Kuruluşu A.Ş."
+  },
+  {
+    "id": 54,
+    "bankCode": "0807",
+    "bankName": "Posta ve Telgraf Teşkilatı A.Ş."
+  },
+  {
+    "id": 55,
+    "bankCode": "0100",
+    "bankName": "Adabank A.Ş."
+  },
+  {
+    "id": 56,
+    "bankCode": "0046",
+    "bankName": "Akbank T.A.Ş."
+  },
+  {
+    "id": 57,
+    "bankCode": "0143",
+    "bankName": "Aktif Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 58,
+    "bankCode": "0203",
+    "bankName": "Albaraka Türk Katılım Bankası A.Ş."
+  },
+  {
+    "id": 59,
+    "bankCode": "0124",
+    "bankName": "Alternatif Bank A.Ş."
+  },
+  {
+    "id": 60,
+    "bankCode": "0135",
+    "bankName": "Anadolubank A.Ş."
+  },
+  {
+    "id": 61,
+    "bankCode": "0091",
+    "bankName": "Arap Türk Bankası"
+  },
+  {
+    "id": 62,
+    "bankCode": "0149",
+    "bankName": "Bank Of China Turkey A.Ş."
+  },
+  {
+    "id": 63,
+    "bankCode": "0142",
+    "bankName": "Bankpozitif Kredi Ve Kalk. Bankası A.Ş."
+  },
+  {
+    "id": 64,
+    "bankCode": "0029",
+    "bankName": "Birleşik Fon Bankası A.Ş."
+  },
+  {
+    "id": 65,
+    "bankCode": "0125",
+    "bankName": "Burgan Bank A.Ş."
+  },
+  {
+    "id": 65,
+    "bankCode": "0092",
+    "bankName": "Citibank A.Ş."
+  },
+  {
+    "id": 66,
+    "bankCode": "0134",
+    "bankName": "Denizbank A.Ş."
+  },
+  {
+    "id": 67,
+    "bankCode": "0115",
+    "bankName": "Deutsche Bank A.Ş."
+  },
+  {
+    "id": 68,
+    "bankCode": "0138",
+    "bankName": "Diler Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 69,
+    "bankCode": "0103",
+    "bankName": "Fibabanka A.Ş."
+  },
+  {
+    "id": 70,
+    "bankCode": "0150",
+    "bankName": "Golden Global Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 71,
+    "bankCode": "0139",
+    "bankName": "Gsd Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 72,
+    "bankCode": "0123",
+    "bankName": "HSBC Bank A.Ş."
+  },
+  {
+    "id": 73,
+    "bankCode": "0109",
+    "bankName": "ICBC Turkey Bank A.Ş."
+  },
+  {
+    "id": 74,
+    "bankCode": "0099",
+    "bankName": "İng Bank A.Ş."
+  },
+  {
+    "id": 75,
+    "bankCode": "0148",
+    "bankName": "İntesa Sanpaolo S.P.A."
+  },
+  {
+    "id": 76,
+    "bankCode": "0004",
+    "bankName": "İller Bankası A.Ş."
+  },
+  {
+    "id": 77,
+    "bankCode": "0132",
+    "bankName": "İstanbul Takas ve Saklama Bank A.Ş."
+  },
+  {
+    "id": 78,
+    "bankCode": "0098",
+    "bankName": "Jpmorgan Chase Bank N.A."
+  },
+  {
+    "id": 79,
+    "bankCode": "0205",
+    "bankName": "Kuveyt Türk Katılım Bankası A.Ş"
+  },
+  {
+    "id": 80,
+    "bankCode": "0806",
+    "bankName": "Merkezi Kayıt Kuruluşu A.Ş."
+  },
+  {
+    "id": 81,
+    "bankCode": "0129",
+    "bankName": "Merrill Lynch Yatırım Bank A.Ş."
+  },
+  {
+    "id": 82,
+    "bankCode": "0147",
+    "bankName": "Mufg Bank Turkey A.Ş."
+  },
+  {
+    "id": 83,
+    "bankCode": "0141",
+    "bankName": "Nurol Yatırım Bankası A.Ş."
+  },
+  {
+    "id": 84,
+    "bankCode": "0146",
+    "bankName": "Odea Bank A.Ş."
+  },
+  {
+    "id": 85,
+    "bankCode": "0116",
+    "bankName": "Pasha Yatırım Bank A.Ş."
+  },
+  {
+    "id": 86,
+    "bankCode": "0807",
+    "bankName": "Posta ve Telgraf Teşkilatı A.Ş."
+  },
+  {
+    "id": 87,
+    "bankCode": "0137",
+    "bankName": "RaboBank A.Ş."
+  },
+  {
+    "id": 88,
+    "bankCode": "0122",
+    "bankName": "Societe Generale (SA)"
+  },
+  {
+    "id": 89,
+    "bankCode": "0121",
+    "bankName": "Standard Chartered Yatırım Bankası Türk A.Ş."
+  },
+  {
+    "id": 90,
+    "bankCode": "0059",
+    "bankName": "Şekerbank T.A.Ş."
+  },
+  {
+    "id": 91,
+    "bankCode": "0032",
+    "bankName": "Türkiye Ekonomi Bankası A.Ş."
+  },
+  {
+    "id": 92,
+    "bankCode": "0016",
+    "bankName": "EXİMBANK"
+  },
+  {
+    "id": 93,
+    "bankCode": "0062",
+    "bankName": "Garanti Bankası A.Ş."
+  },
+  {
+    "id": 94,
+    "bankCode": "0012",
+    "bankName": "Halk Bankası A.Ş."
+  },
+
+  {
+    "id": 96,
+    "bankCode": "0017",
+    "bankName": "Kalkınma Bankası A.Ş."
+  },
+  {
+    "id": 97,
+    "bankCode": "0014",
+    "bankName": "Sınai Kalkınma Bankası A.Ş."
+  },
+  {
+    "id": 98,
+    "bankCode": "0015",
+    "bankName": "Vakıflar Bankası T.A.O."
+  },
+  {
+    "id": 99,
+    "bankCode": "0001",
+    "bankName": "Merkez Bankası A.Ş."
+  },
+  {
+    "id": 100,
+    "bankCode": "0010",
+    "bankName": "Ziraat Bankası A.Ş."
+  },
+  {
+    "id": 101,
+    "bankCode": "0096",
+    "bankName": "Turkishbank A.Ş."
+  },
+  {
+    "id": 102,
+    "bankCode": "0108",
+    "bankName": "Turkland Bank A.Ş."
+  },
+  {
+    "id": 103,
+    "bankCode": "0211",
+    "bankName": "Türkiye Emlak Katılım Bankası A.Ş."
+  },
+  {
+    "id": 104,
+    "bankCode": "0206",
+    "bankName": "Türkiye Finans Katılım Bankası A.Ş."
+  },
+  { "id": 105, "bankCode": "0210", "bankName": "Vakıf Katılım Bankası A.Ş." },
+  { "id": 106, "bankCode": "0067", "bankName": "Yapı Ve Kredi Bankası A.Ş." },
+  { "id": 107, "bankCode": "0209", "bankName": "Ziraat Katılım Bankası A.Ş." },
+  { "id": 108, "bankCode": "0111", "bankName": "QNB Finansbank A.Ş." }
+]
